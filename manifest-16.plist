@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://guest@192.168.1.190:8111/repository/download/Test_New/16:id/SeraphimClient.ipa</string>
+					<string>http://guest@192.168.1.190/SeraphimClient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
